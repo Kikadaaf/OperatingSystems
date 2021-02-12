@@ -5,3 +5,7 @@ If it is not needed, the operating systems removes it from active processing.
 The operating system is responsible for how the file systems are orgqanized into directories.
 What is in the file, when they were accessed, who accessed them, and when they were altered is tracked by the operating system.
 The Operating system also keeps logs in the directories with these details for user access.
+
+The operating system is responsible for system checks on boot.
+When booting up the computer is checked to ensure that the hardware and software necessary to function are functional.
+The operating system initializes the main memory needed for the basic functions during the boot process.
