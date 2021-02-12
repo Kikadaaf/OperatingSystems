@@ -1,3 +1,7 @@
 The operating system manages the memory and priority of the proccesses sent to the processor.
 It also keeps track of whether or not the process is needed or not at a given time.
 If it is not needed, the operating systems removes it from active processing.
+
+The operating system is responsible for how the file systems are orgqanized into directories.
+What is in the file, when they were accessed, who accessed them, and when they were altered is tracked by the operating system.
+The Operating system also keeps logs in the directories with these details for user access.
